@@ -6,3 +6,5 @@ data/*
 *.o
 *.dat
 *.idx
+data/*.csv
+data/*.gz
